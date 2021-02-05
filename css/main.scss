@@ -43,13 +43,12 @@ $on-laptop:        800px;
     }
 }
 
-@import "./bootstrap";
-
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "nav",
-        "components"
+    "bootstrap",    
+    "base",
+    "layout",
+    "nav",
+    "components"
 ;
