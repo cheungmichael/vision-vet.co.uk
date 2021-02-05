@@ -1,0 +1,104 @@
+body {
+  font-family:$base-font-family;
+  font-size:$base-font-size;
+}
+
+h1 {margin-bottom:25px; margin-top:0;}
+
+h4 {font-weight:bold;}
+
+p, ul {
+  margin-bottom:25px;
+}
+
+.img-responsive--float {
+  float:left;
+  margin-bottom:5px;
+}
+
+.img--floatright {
+  margin-bottom:20px;
+  margin-left:20px;
+}
+
+.img--bordered {
+  display:inline-block;
+  position:relative;
+}
+
+.img--caption {
+  font-size:16px;
+}
+
+.media-object--bordered {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  line-height: 1.42857;
+  padding: 4px;
+  transition: all 0.2s ease-in-out 0s;
+}
+
+.u-magnifyingglass {
+  background:#fff; color:#000; bottom:5px; display:block; font-size:17px; padding:2px 3px 0 3px; position:absolute; right:5px;
+}
+
+.u-magnifyingglass--mediaobj {
+  bottom:5px;
+  right:15px;
+}
+
+.u-bordertop {
+  border-top:1px solid #eee;
+  padding-top:20px;
+}
+
+.u-margintop0 {
+    margin-top:0;
+}
+
+.u-margintop20 {
+  margin-top:20px;
+}
+
+.u-margintop40 {
+  margin-top:40px;
+}
+
+.u-marginbottom10 {
+  margin-bottom:10px;
+}
+
+.u-paddingright25 {
+  padding-right:25px;
+}
+
+.u-positionrelative {
+  position:relative;
+}
+
+.u-textindent {
+  position:absolute;
+  text-indent:-99999px;
+}
+
+.u-nobreak {
+  white-space:nowrap;
+}
+
+@media (max-width: 992px) {
+
+  .u-xs {
+    margin-left:0 !important;
+    margin-right:0 !important;
+  }
+
+  .img-responsive--float {
+    margin-right:5px;
+  }
+
+  .u-md-paddingright15 {
+    padding-right:15px;
+  }
+
+}
