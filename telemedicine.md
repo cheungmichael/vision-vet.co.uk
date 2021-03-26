@@ -18,7 +18,16 @@ weight: 6
 
     <p>I will call you back to discuss the case and arrange an Ophthalmology Telemedicine consult.</p>
 
-    <p>Price:</p>
+    <h3>Membership:</h3>
+    <ul>
+      <li>5 reports per month * </li>
+      <li>1 CPD course per month</li>
+      <li>&pound;100 per month</li>
+      <li>Cancel anytime</li>
+    </ul>
+    <p>* Does not include OOH report, telemedicine consult and telemedicine OOH consult.</p>
+
+    <h3>Price without membership:</h3>
     <ul>
       <li>Ophthalmology Telemedicine report: &pound;35</li>
       <li>Ophthalmology Telemedicine check up (report): &pound;25</li>
@@ -29,9 +38,8 @@ weight: 6
   </div>
 
   <div class="col-md-3">
-
     <div class="img--bordered">
-      <img src="/img/emergency_small.jpg" alt="" class="img-responsive img-thumbnail" />
+      <img src="/img/emergency_small.jpg" alt="" class="img-responsive img-thumbnail">
       <a href="#modalimage" data-toggle="modal" data-target="#modalimage" class="u-magnifyingglass"><span aria-hidden="true" class="glyphicon glyphicon-zoom-in"></span><span class="u-textindent">View larger image</span></a>
     </div>
 
@@ -42,7 +50,7 @@ weight: 6
   	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
   	      </div>
   	      <div class="modal-body">
-  	        <p><img src="/img/emergency_large.jpg" class="img-responsive" alt="" /></p>
+            <p><img src="/img/emergency_large.jpg" class="img-responsive" alt=""></p>
           </div>
   	      <div class="modal-footer">
   	        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
