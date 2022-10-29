@@ -10,20 +10,6 @@ weight: 10
 <div class="row row--nested">
 
   <div class="col-md-9">
-    <h2 class="u-margintop0">ICR Veterinary Surgery</h2>
-    <p>
-      44 Fountain Place<br />
-      Loanhead<br />
-      EH20 9DU<br />
-      Phone: 0131 440 4229<br />
-      Email: <a href="mailto:icr_vet@hotmail.com">icr_vet@hotmail.com</a>
-    </p>
-
-    <p><strong>All medical and surgical facilities available.</strong></p>
-
-    <p>Available every Tuesday and Thursday.</p>
-
-    <p><strong>All Out of Hours cases will be seen at ICR veterinary surgery.</strong></p>
 
     <p><strong>If you require to contact me out of hours please leave a message on the emergency number 07523&nbsp;670795 and I will call you back as soon as possible.</strong></p>
 

@@ -11,9 +11,6 @@ weight: 12
 
   <div class="col-md-9">
 
-    <p>ICR Veterinary Surgery<br />
-    <a href="http://www.icrvets.co.uk/">www.icrvets.co.uk</a></p>
-
     <p>European Society of Veterinary Ophthalmology<br />
     <a href="http://www.esvo.org/">www.esvo.org</a></p>
 
