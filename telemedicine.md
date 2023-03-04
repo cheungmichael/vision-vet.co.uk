@@ -18,16 +18,7 @@ weight: 6
 
     <p>I will call you back to discuss the case and arrange an Ophthalmology Telemedicine consult.</p>
 
-    <h3>Membership:</h3>
-    <ul>
-      <li>5 reports per month * </li>
-      <li>1 CPD course per month</li>
-      <li>&pound;100 per month</li>
-      <li>Cancel anytime</li>
-    </ul>
-    <p>* Does not include OOH report, telemedicine consult and telemedicine OOH consult.</p>
-
-    <h3>Price without membership:</h3>
+    <h3>Prices</h3>
     <ul>
       <li>Ophthalmology Telemedicine report: &pound;35</li>
       <li>Ophthalmology Telemedicine check up (report): &pound;25</li>
