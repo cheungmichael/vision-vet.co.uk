@@ -14,28 +14,21 @@ weight: 8
 
     <p>Many Veterinary surgeons approach me to express that ophthalmology is one area that they feel uncomfortable to manage in first opinion practice, therefore I constructed a course which will improve your knowledge, skills and confidence in ophthalmology, and you would be able to use the materials as a reference when treating ophthalmic cases.</p>
 
-    <p>Every month I'll be discussing 2-3 ophthalmology topics. You will have an access to the course and it’s notes anytime and there will be Q&A option about each topic.</p>
+    <h2>What's included:</h2>
 
-    <p>The webinar can be used towards your CPD allowance which will give you 30 hours.</p>
+    <ul>
+      <li>Live webinar</li>
+      <li>22 Topics</li>
+      <li>A 12-month ophthalmology training program</li>
+      <li>Adjust the course to your staff's specification</li>
+      <li>The course is for the entire practice (vets and nurses)</li>
+      <li>Additional monthly live webinars at no extra cost when required</li>
+      <li>PDF notes</li>
+      <li>CPD certificates</li>
+      <li>Q&amp;A</li>
+    </ul>
 
-    <p>The course will start on 1st August 2019.</p>
-
-    <h2>Fees</h2>
-
-    <p>Cost for 12-month comprehensive CPD webinar:</p>
-
-    <p>Early bird by 1st June: &pound;895+VAT</p>
-
-    <p>After 1st June: &pound;995+VAT</p>
-
-    <p>Pick an ophthalmology topic: &pound;60+VAT per topic.</p>
-
-    <p>In case the course is booked by more than one vet from the same practice each vet gets 20% off the full price.</p>
-
-    <p>You can also get &pound;50 off in case you recommend the course to a vet who books it.</p>
-
-    <p><strong>For more detail about the topics, prices and dates and if you are interested in booking the ophthalmology webinar, please download the <a href="/docs/registration-form.pdf">registration form</a> and email it to <a href="mailto:info@vision-vet.co.uk">info@vision-vet.co.uk</a>.</strong></p>
-
+    <p><strong>For more detail about the topics, prices and dates or if you are interested in booking the ophthalmology webinar, please download the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeMQx-JXBiNhhSAeXXL695em2hKNj6xM6B9qAr_5sQTtkwQqw/viewform?usp=pp_url">registration form</a> and email it to <a href="mailto:info@vision-vet.co.uk">info@vision-vet.co.uk</a>.</strong></p>
     <p><strong>If you would like to discuss my course, please do not hesitate to contact me on 07523 670795.</strong></p>
 
   </div>
